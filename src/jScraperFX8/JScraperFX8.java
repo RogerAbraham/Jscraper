@@ -18,9 +18,9 @@ package jScraperFX8;
  * 		   Clean up and optimize the file filtering/walking/Manipulation routines. A bit to many uneeded recalcs and suboptimal data structure usage.
  * 		   Split functionality into seperate classes/be smarter about code organization and modularization
  * 			
- * Requires: JRE8 to run. JDK13 and JavaFX13 for development. 
- * *Note to devs: I suggest using eclipse, selecting javaSE13 as your dev enviroment and manually adding the JAVAFX13 libraries to your external jars and also adding the runtimes to the module build path
- * Tested and working on:  Windows 10 64-bit, 
+ * Requires: JRE8 to run and develop.
+ * *Note to devs: I suggest using eclipse, selecting javaSE1.8 as your dev enviroment
+ *  Tested and working on:  Windows 10 64-bit
  * 
  */
 
