@@ -18,7 +18,7 @@ Lightweight Java Multi-File-Type Multi-Directory scraping tool with a pretty GUI
 ## Features
 
 1. Clean lightWeight GUI
-2. Multi Extension Multi Directory Search
+2. Multi Extension Multi Directory Custom Depth Level Searching
 3. Multi Threaded
 4. Filtered Actions (Copy/Move/Save/View) -> based on criteria selected, e.g Only .pdf files found on the G:// drive.
 
