@@ -29,5 +29,7 @@ It is made with JavaFX8 and uses Java SE 1.8 features (streams, lambda functions
 ## Requirements
 JRE 1.8
  
-Screenshots
+## Screenshots
 -----------
+![image](https://user-images.githubusercontent.com/54995101/75169451-9631a180-56f6-11ea-9d2c-2493c825ca32.PNG)
+
