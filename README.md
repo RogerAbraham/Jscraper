@@ -1,14 +1,11 @@
 ---
-title: Solarized
-description: Precision colors for machines and people
-author: Ethan Schoonover
-tags: test, testing, test123
-colors: light yellow
-created:  2011 Mar 15
-modified: 2011 Apr 16
+Title: jScraper
+Description: GUI tool for file scrapping and file management
+Author: Roger Abraham
+Tags: JavaFX, Java 8, Scraper, Culling, GUI, Save, Move, Copy, Delete
+Created:  2020-02-20
 
 ---
-
 
 # Description
 
