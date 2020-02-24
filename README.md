@@ -1,14 +1,11 @@
-# Jscraper
-A Java based File Scraper that allows you to move, delete, copy files to a new location based on search criteria. Alternatively you can save the file paths as a textile for future use.
+# Description
+
+Lightweight Java Multi-File-Type Multi-Directory scraping tool with a pretty GUI for ease of use. The program also gives users the ability to copy/move the result space (based on user inputted directories and file extensions) to a new folder, or delete them, or store the file paths to a textfile for future use.
+
+# Under the Hood
+It is made with JavaFX8 and uses Java SE 1.8 features (streams, lambda functions, threading) for the pretty GUI and great performance.
 
 # Requirements
-
-JavaFX13.0.2
-
-JavaSDK13
-
-# Compile
-
-Compile the App.java with the folowing additional command line arguments: 
-
-javac --module-path "<your path>/javafx-sdk-13.0.2/lib" --add-modules javafx.controls,javafx.fxml App.java
+ JRE 1.8
+ 
+# Demo
