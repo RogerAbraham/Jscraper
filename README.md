@@ -22,6 +22,7 @@ Lightweight Java Multi-File-Type Multi-Directory scraping tool with a pretty GUI
 2. Multi Extension Multi Directory Custom Depth Level Searching
 3. Multi Threaded
 4. Filtered Actions (Copy/Move/Save/View) -> based on criteria selected, e.g Only .pdf files found on the G:// drive.
+![image](https://user-images.githubusercontent.com/54995101/75169451-9631a180-56f6-11ea-9d2c-2493c825ca32.PNG)
 
 ## Under the Hood
 It is made with JavaFX8 and uses Java SE 1.8 features (streams, lambda functions, threading) for the pretty GUI and great performance.
@@ -29,7 +30,6 @@ It is made with JavaFX8 and uses Java SE 1.8 features (streams, lambda functions
 ## Requirements
 JRE 1.8
  
-## Screenshots
------------
-![image](https://user-images.githubusercontent.com/54995101/75169451-9631a180-56f6-11ea-9d2c-2493c825ca32.PNG)
+## Download
+
 
